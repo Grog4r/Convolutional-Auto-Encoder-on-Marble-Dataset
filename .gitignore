@@ -1,2 +1,4 @@
 marble
 .venv
+*.png
+*.gif
